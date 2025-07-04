@@ -1,0 +1,6 @@
+name: Nothin soup
+on:
+  push:
+jobs:
+  some-thing:
+    runs-on: linux
